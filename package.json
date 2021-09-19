@@ -1,0 +1,23 @@
+{
+  "name": "nataliaconde",
+  "version": "1.0.0",
+  "description": "GitHub profile project",
+  "main": "update-readme.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliaconde/nataliaconde.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliaconde/nataliaconde/issues"
+  },
+  "homepage": "https://github.com/nataliaconde/nataliaconde#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "https": "^1.0.0",
+    "axios": "*"
+  }
+}
