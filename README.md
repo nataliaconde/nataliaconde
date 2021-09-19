@@ -1,6 +1,6 @@
 # Hi folks, I'm Natalia! 🙋🏻‍♀️
 
-I'm a computer engineer passionate about technology.
+I am a computer engineer with a passion for technology.
 
 I've been working with different technologies and I love open source communities and projects. 
 
@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> A garden is always a series of losses set against a few triumphs, like life itself. <br>
-> 📖 May Sarton
+> How we spend our days is, of course, how we spend our lives. <br>
+> 📖 Annie Dillard
 
 Last update <b>Sunday, September 19, 2021</b>.
