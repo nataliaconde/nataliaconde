@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> How we spend our days is, of course, how we spend our lives. <br>
-> 📖 Annie Dillard
+> Our strength grows out of our weaknesses. <br>
+> 📖 Ralph Waldo Emerson
 
-Last update <b>Sunday, September 19, 2021</b>.
+Last update <b>Monday, September 20, 2021</b>.
