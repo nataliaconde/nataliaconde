@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Our strength grows out of our weaknesses. <br>
-> 📖 Ralph Waldo Emerson
+> Sadness flies away on the wings of time. <br>
+> 📖 Jean de la Fontaine
 
-Last update <b>Monday, September 20, 2021</b>.
+Last update <b>Tuesday, September 21, 2021</b>.
