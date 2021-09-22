@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Sadness flies away on the wings of time. <br>
-> 📖 Jean de la Fontaine
+> He who talks more is sooner exhausted. <br>
+> 📖 Lao Tzu
 
-Last update <b>Tuesday, September 21, 2021</b>.
+Last update <b>Wednesday, September 22, 2021</b>.
