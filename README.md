@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> He who talks more is sooner exhausted. <br>
-> 📖 Lao Tzu
+> Be a good listener. Your ears will never get you in trouble. <br>
+> 📖 Frank Tyger
 
-Last update <b>Wednesday, September 22, 2021</b>.
+Last update <b>Thursday, September 23, 2021</b>.
