@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Be a good listener. Your ears will never get you in trouble. <br>
-> 📖 Frank Tyger
+> The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character. <br>
+> 📖 Buddha
 
-Last update <b>Thursday, September 23, 2021</b>.
+Last update <b>Friday, September 24, 2021</b>.
