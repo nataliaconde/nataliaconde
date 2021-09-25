@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character. <br>
-> 📖 Buddha
+> Our greatest glory is not in never failing but rising everytime we fall. <br>
+> 📖 
 
-Last update <b>Friday, September 24, 2021</b>.
+Last update <b>Saturday, September 25, 2021</b>.
