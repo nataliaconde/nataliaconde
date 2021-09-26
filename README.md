@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Our greatest glory is not in never failing but rising everytime we fall. <br>
-> 📖 
+> We choose our joys and sorrows long before we experience them. <br>
+> 📖 Kahlil Gibran
 
-Last update <b>Saturday, September 25, 2021</b>.
+Last update <b>Sunday, September 26, 2021</b>.
