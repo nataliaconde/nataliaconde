@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> We choose our joys and sorrows long before we experience them. <br>
-> 📖 Kahlil Gibran
+> Our kindness may be the most persuasive argument for that which we believe. <br>
+> 📖 Gordon Hinckley
 
-Last update <b>Sunday, September 26, 2021</b>.
+Last update <b>Monday, September 27, 2021</b>.
