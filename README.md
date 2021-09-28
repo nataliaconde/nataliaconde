@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Our kindness may be the most persuasive argument for that which we believe. <br>
-> 📖 Gordon Hinckley
+> Not what we have but what we enjoy constitutes our abundance. <br>
+> 📖 John Petit-Senn
 
-Last update <b>Monday, September 27, 2021</b>.
+Last update <b>Tuesday, September 28, 2021</b>.
