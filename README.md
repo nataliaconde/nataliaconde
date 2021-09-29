@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Not what we have but what we enjoy constitutes our abundance. <br>
-> 📖 John Petit-Senn
+> Go for it now. The future is promised to no one. <br>
+> 📖 Wayne Dyer
 
-Last update <b>Tuesday, September 28, 2021</b>.
+Last update <b>Wednesday, September 29, 2021</b>.
