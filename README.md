@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Go for it now. The future is promised to no one. <br>
-> 📖 Wayne Dyer
+> Enjoy the little things, for one day you may look back and realize they were the big things. <br>
+> 📖 Robert Brault
 
-Last update <b>Wednesday, September 29, 2021</b>.
+Last update <b>Thursday, September 30, 2021</b>.
