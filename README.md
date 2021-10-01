@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Enjoy the little things, for one day you may look back and realize they were the big things. <br>
-> 📖 Robert Brault
+> In seed time learn, in harvest teach, in winter enjoy. <br>
+> 📖 William Blake
 
-Last update <b>Thursday, September 30, 2021</b>.
+Last update <b>Friday, October 1, 2021</b>.
