@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> In seed time learn, in harvest teach, in winter enjoy. <br>
-> 📖 William Blake
+> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool. <br>
+> 📖 Joseph Roux
 
-Last update <b>Friday, October 1, 2021</b>.
+Last update <b>Saturday, October 2, 2021</b>.
