@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool. <br>
-> 📖 Joseph Roux
+> Today is the tomorrow you worried about yesterday. <br>
+> 📖 
 
-Last update <b>Saturday, October 2, 2021</b>.
+Last update <b>Sunday, October 3, 2021</b>.
