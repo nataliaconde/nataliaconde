@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Today is the tomorrow you worried about yesterday. <br>
-> 📖 
+> A garden is always a series of losses set against a few triumphs, like life itself. <br>
+> 📖 May Sarton
 
-Last update <b>Sunday, October 3, 2021</b>.
+Last update <b>Monday, October 4, 2021</b>.
