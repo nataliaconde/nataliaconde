@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> A garden is always a series of losses set against a few triumphs, like life itself. <br>
-> 📖 May Sarton
+> Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it. <br>
+> 📖 David Jordan
 
-Last update <b>Monday, October 4, 2021</b>.
+Last update <b>Tuesday, October 5, 2021</b>.
