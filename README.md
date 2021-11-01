@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it. <br>
-> 📖 David Jordan
+> Be like the flower, turn your face to the sun. <br>
+> 📖 Kahlil Gibran
 
-Last update <b>Tuesday, October 5, 2021</b>.
+Last update <b>Monday, November 1, 2021</b>.
