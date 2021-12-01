@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Be like the flower, turn your face to the sun. <br>
-> 📖 Kahlil Gibran
+> It is not enough to have a good mind; the main thing is to use it well. <br>
+> 📖 Rene Descartes
 
-Last update <b>Monday, November 1, 2021</b>.
+Last update <b>Wednesday, December 1, 2021</b>.
