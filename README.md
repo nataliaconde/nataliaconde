@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> It is not enough to have a good mind; the main thing is to use it well. <br>
-> 📖 Rene Descartes
+> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing. <br>
+> 📖 Mother Teresa
 
-Last update <b>Wednesday, December 1, 2021</b>.
+Last update <b>Saturday, January 1, 2022</b>.
