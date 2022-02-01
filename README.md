@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing. <br>
-> 📖 Mother Teresa
+> We should all be thankful for those people who rekindle the inner spirit. <br>
+> 📖 Albert Schweitzer
 
-Last update <b>Saturday, January 1, 2022</b>.
+Last update <b>Tuesday, February 1, 2022</b>.
