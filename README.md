@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> We should all be thankful for those people who rekindle the inner spirit. <br>
-> 📖 Albert Schweitzer
+> I&#x27;m not interested in age. People who tell me their age are silly. You&#x27;re as old as you feel. <br>
+> 📖 Elizabeth Arden
 
-Last update <b>Tuesday, February 1, 2022</b>.
+Last update <b>Tuesday, March 1, 2022</b>.
