@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> I&#x27;m not interested in age. People who tell me their age are silly. You&#x27;re as old as you feel. <br>
-> 📖 Elizabeth Arden
+> Yesterday I dared to struggle. Today I dare to win. <br>
+> 📖 Bernadette Devlin
 
-Last update <b>Tuesday, March 1, 2022</b>.
+Last update <b>Friday, April 1, 2022</b>.
