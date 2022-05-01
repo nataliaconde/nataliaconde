@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Yesterday I dared to struggle. Today I dare to win. <br>
-> 📖 Bernadette Devlin
+> When performance exceeds ambition, the overlap is called success. <br>
+> 📖 Cullen Hightower
 
-Last update <b>Friday, April 1, 2022</b>.
+Last update <b>Sunday, May 1, 2022</b>.
