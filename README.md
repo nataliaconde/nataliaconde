@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> When performance exceeds ambition, the overlap is called success. <br>
-> 📖 Cullen Hightower
+> Leaders aren&#x27;t born they are made. And they are made just like anything else, through hard work. And that&#x27;s the price well have to pay to achieve that goal, or any goal. <br>
+> 📖 Vince Lombardi
 
-Last update <b>Sunday, May 1, 2022</b>.
+Last update <b>Wednesday, June 1, 2022</b>.
