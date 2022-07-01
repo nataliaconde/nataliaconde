@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Leaders aren&#x27;t born they are made. And they are made just like anything else, through hard work. And that&#x27;s the price well have to pay to achieve that goal, or any goal. <br>
-> 📖 Vince Lombardi
+> There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them. <br>
+> 📖 Denis Waitley
 
-Last update <b>Wednesday, June 1, 2022</b>.
+Last update <b>Friday, July 1, 2022</b>.
