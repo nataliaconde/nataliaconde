@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them. <br>
-> 📖 Denis Waitley
+> Fate is in your hands and no one elses <br>
+> 📖 Byron Pulsifer
 
-Last update <b>Friday, July 1, 2022</b>.
+Last update <b>Monday, August 1, 2022</b>.
