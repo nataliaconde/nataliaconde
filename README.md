@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Fate is in your hands and no one elses <br>
-> 📖 Byron Pulsifer
+> In three words I can sum up everything Ive learned about life: it goes on. <br>
+> 📖 Robert Frost
 
-Last update <b>Monday, August 1, 2022</b>.
+Last update <b>Thursday, September 1, 2022</b>.
