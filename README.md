@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them. <br>
-> 📖 Denis Waitley
+>  <br>
+> 📖 
 
-Last update <b>Tuesday, November 1, 2022</b>.
+Last update <b>Thursday, December 1, 2022</b>.
