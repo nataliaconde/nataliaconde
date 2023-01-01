@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
->  <br>
-> 📖 
+> There is no retirement for an artist, it&#x27;s your way of living so there is no end to it. <br>
+> 📖 Henry Moore
 
-Last update <b>Thursday, December 1, 2022</b>.
+Last update <b>Sunday, January 1, 2023</b>.
