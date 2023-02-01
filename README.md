@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> There is no retirement for an artist, it&#x27;s your way of living so there is no end to it. <br>
-> 📖 Henry Moore
+> Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can&#x27;t build on it; it&#x27;s only for wallowing in. <br>
+> 📖 Katherine Mansfield
 
-Last update <b>Sunday, January 1, 2023</b>.
+Last update <b>Wednesday, February 1, 2023</b>.
