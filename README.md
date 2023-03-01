@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can&#x27;t build on it; it&#x27;s only for wallowing in. <br>
-> 📖 Katherine Mansfield
+> Our greatest glory is not in never failing but rising everytime we fall. <br>
+> 📖 
 
-Last update <b>Wednesday, February 1, 2023</b>.
+Last update <b>Wednesday, March 1, 2023</b>.
