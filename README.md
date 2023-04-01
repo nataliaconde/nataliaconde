@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Our greatest glory is not in never failing but rising everytime we fall. <br>
-> 📖 
+> Things that were hard to bear are sweet to remember. <br>
+> 📖 Seneca
 
-Last update <b>Wednesday, March 1, 2023</b>.
+Last update <b>Saturday, April 1, 2023</b>.
