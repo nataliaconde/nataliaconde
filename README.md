@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Things that were hard to bear are sweet to remember. <br>
-> 📖 Seneca
+> Where there is great love, there are always miracles. <br>
+> 📖 Willa Cather
 
-Last update <b>Saturday, April 1, 2023</b>.
+Last update <b>Monday, May 1, 2023</b>.
