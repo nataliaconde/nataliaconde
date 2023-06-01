@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Where there is great love, there are always miracles. <br>
-> 📖 Willa Cather
+> Love and compassion open our own inner life, reducing stress, distrust and loneliness. <br>
+> 📖 Dalai Lama
 
-Last update <b>Monday, May 1, 2023</b>.
+Last update <b>Thursday, June 1, 2023</b>.
