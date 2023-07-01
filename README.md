@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Love and compassion open our own inner life, reducing stress, distrust and loneliness. <br>
-> 📖 Dalai Lama
+> Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied. <br>
+> 📖 Pearl Buck
 
-Last update <b>Thursday, June 1, 2023</b>.
+Last update <b>Saturday, July 1, 2023</b>.
