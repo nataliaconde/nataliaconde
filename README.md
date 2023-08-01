@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied. <br>
-> 📖 Pearl Buck
+> Genius is one percent inspiration and ninety-nine percent perspiration. <br>
+> 📖 Thomas Edison, type.fit
 
-Last update <b>Saturday, July 1, 2023</b>.
+Last update <b>Tuesday, August 1, 2023</b>.
