@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Genius is one percent inspiration and ninety-nine percent perspiration. <br>
-> 📖 Thomas Edison, type.fit
+> We can only learn to love by loving. <br>
+> 📖 Iris Murdoch, type.fit
 
-Last update <b>Tuesday, August 1, 2023</b>.
+Last update <b>Friday, September 1, 2023</b>.
