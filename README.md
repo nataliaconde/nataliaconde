@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> We can only learn to love by loving. <br>
-> 📖 Iris Murdoch, type.fit
+> A house divided against itself cannot stand. <br>
+> 📖 Abraham Lincoln, type.fit
 
-Last update <b>Friday, September 1, 2023</b>.
+Last update <b>Sunday, October 1, 2023</b>.
