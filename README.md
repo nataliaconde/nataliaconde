@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> A house divided against itself cannot stand. <br>
-> 📖 Abraham Lincoln, type.fit
+> Self-complacency is fatal to progress. <br>
+> 📖 Margaret Sangster, type.fit
 
-Last update <b>Sunday, October 1, 2023</b>.
+Last update <b>Wednesday, November 1, 2023</b>.
