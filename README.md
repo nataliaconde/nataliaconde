@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Self-complacency is fatal to progress. <br>
-> 📖 Margaret Sangster, type.fit
+> You&#x27;ll see it when you believe it. <br>
+> 📖 Wayne Dyer, type.fit
 
-Last update <b>Wednesday, November 1, 2023</b>.
+Last update <b>Friday, December 1, 2023</b>.
