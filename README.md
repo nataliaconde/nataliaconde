@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> You&#x27;ll see it when you believe it. <br>
-> 📖 Wayne Dyer, type.fit
+> Difficulties increase the nearer we get to the goal. <br>
+> 📖 Johann Wolfgang von Goethe, type.fit
 
-Last update <b>Friday, December 1, 2023</b>.
+Last update <b>Monday, January 1, 2024</b>.
