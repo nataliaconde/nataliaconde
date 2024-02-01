@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Difficulties increase the nearer we get to the goal. <br>
-> 📖 Johann Wolfgang von Goethe, type.fit
+> What you give is what you get. <br>
+> 📖 Byron Pulsifer, type.fit
 
-Last update <b>Monday, January 1, 2024</b>.
+Last update <b>Thursday, February 1, 2024</b>.
