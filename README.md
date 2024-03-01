@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> What you give is what you get. <br>
-> 📖 Byron Pulsifer, type.fit
+> Life is a learning experience, only if you learn. <br>
+> 📖 Yogi Berra
 
-Last update <b>Thursday, February 1, 2024</b>.
+Last update <b>Friday, March 1, 2024</b>.
