@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Life is a learning experience, only if you learn. <br>
-> 📖 Yogi Berra
+> Life is change. Growth is optional. Choose wisely. <br>
+> 📖 Karen Clark, type.fit
 
-Last update <b>Friday, March 1, 2024</b>.
+Last update <b>Monday, April 1, 2024</b>.
