@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> A house divided against itself cannot stand. <br>
-> 📖 Abraham Lincoln, type.fit
+> What you give is what you get. <br>
+> 📖 Byron Pulsifer, type.fit
 
-Last update <b>Monday, July 1, 2024</b>.
+Last update <b>Thursday, August 1, 2024</b>.
