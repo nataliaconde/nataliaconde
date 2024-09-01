@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> What you give is what you get. <br>
-> 📖 Byron Pulsifer, type.fit
+>  <br>
+> 📖 
 
-Last update <b>Thursday, August 1, 2024</b>.
+Last update <b>Sunday, September 1, 2024</b>.
