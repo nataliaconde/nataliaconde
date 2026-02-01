@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> A house divided against itself cannot stand. <br>
-> 📖 Abraham Lincoln
+> Difficulties increase the nearer we get to the goal. <br>
+> 📖 Johann Wolfgang von Goethe
 
-Last update <b>Thursday, January 1, 2026</b>.
+Last update <b>Sunday, February 1, 2026</b>.
