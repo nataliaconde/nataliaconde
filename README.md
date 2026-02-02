@@ -29,10 +29,6 @@ I've been working with different technologies and I love open source communities
 
 <!-- Got icons from here: https://github.com/alexandresanlim/Badges4-README.md-Profile --> 
 
-## &#x1f4c8; GitHub Stats
-
-[![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaconde&count_private=true&show_icons=true&theme=radical)](https://github.com/nataliaconde/github-readme-stats)
-
 ## 🌎 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/nataliaconde)](https://br.linkedin.com/in/nataliaconde)
