@@ -29,6 +29,10 @@ I've been working with different technologies and I love open source communities
 
 <!-- Got icons from here: https://github.com/alexandresanlim/Badges4-README.md-Profile --> 
 
+## &#x1f4c8; GitHub Stats
+
+[![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaconde&count_private=true&show_icons=true&theme=radical)](https://github.com/nataliaconde/github-readme-stats)
+
 ## 🌎 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/nataliaconde)](https://br.linkedin.com/in/nataliaconde)
@@ -36,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Difficulties increase the nearer we get to the goal. <br>
-> 📖 Johann Wolfgang von Goethe
+> Genius is one percent inspiration and ninety-nine percent perspiration. <br>
+> 📖 Thomas Edison
 
-Last update <b>Sunday, February 1, 2026</b>.
+Last update <b>Sunday, March 1, 2026</b>.
