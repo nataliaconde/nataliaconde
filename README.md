@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Genius is one percent inspiration and ninety-nine percent perspiration. <br>
-> 📖 Thomas Edison
+> Difficulties increase the nearer we get to the goal. <br>
+> 📖 Johann Wolfgang von Goethe
 
-Last update <b>Sunday, March 1, 2026</b>.
+Last update <b>Wednesday, April 1, 2026</b>.
