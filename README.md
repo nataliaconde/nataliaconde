@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Difficulties increase the nearer we get to the goal. <br>
-> 📖 Johann Wolfgang von Goethe
+> You can observe a lot just by watching. <br>
+> 📖 Yogi Berra
 
-Last update <b>Wednesday, April 1, 2026</b>.
+Last update <b>Friday, May 1, 2026</b>.
