@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> You can observe a lot just by watching. <br>
-> 📖 Yogi Berra
+> Fate is in your hands and no one elses <br>
+> 📖 Byron Pulsifer
 
-Last update <b>Friday, May 1, 2026</b>.
+Last update <b>Monday, June 1, 2026</b>.
