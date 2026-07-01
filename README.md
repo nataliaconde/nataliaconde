@@ -40,7 +40,7 @@ I've been working with different technologies and I love open source communities
 
 <br><br>
 
-> Fate is in your hands and no one elses <br>
-> 📖 Byron Pulsifer
+> Genius is one percent inspiration and ninety-nine percent perspiration. <br>
+> 📖 Thomas Edison
 
-Last update <b>Monday, June 1, 2026</b>.
+Last update <b>Wednesday, July 1, 2026</b>.
